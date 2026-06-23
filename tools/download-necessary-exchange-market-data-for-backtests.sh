@@ -12,7 +12,7 @@ HELPER_TIME_FRAMES="1d 4h 1h 15m 1m"
 TRADING_MODE="spot"
 # EXAMPLE
 # EXCHANGE="binance kucoin okx"
-EXCHANGE="binance kucoin"
+EXCHANGE="binance"
 URL="https://github.com/DigiTuccar/HistoricalDataForTradeBacktest.git"
 
 if [ -d $MAIN_DATA_DIRECTORY ]
